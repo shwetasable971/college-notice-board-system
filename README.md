@@ -101,3 +101,7 @@ Notices can be filtered by category to quickly find relevant announcements.
 Conclusion
 The College Notice Board System is a full-stack MERN application that demonstrates CRUD operations, REST API integration, and a responsive UI design.
 It provides an efficient digital solution for managing and viewing college notices.
+
+Conclusion
+The College Notice Board System is a full-stack MERN application that demonstrates CRUD operations, REST API integration, and a responsive UI design.
+It provides an efficient digital solution for managing and viewing college notices.
