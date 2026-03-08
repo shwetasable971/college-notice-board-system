@@ -49,12 +49,14 @@ Notice Schema
 Each notice contains the following fields:
 title (String)
 description (String)
-category (General | Exam | Event | Placement)
+department (String) 
 priority (High | Medium | Low)
-status (Active | Expired)
+publishDate (Date)
+status (Active | Expired | draft)
 expiryDate (Date)
 postedBy (String)
 createdAt (Date - auto generated)
+updatedAt (Date - auto geneated)
 
 API Endpoints
 Method
